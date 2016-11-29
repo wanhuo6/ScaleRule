@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Scale">
+        <attr name="scale_view_max" format="integer"/>
+        <attr name="scale_view_min" format="integer"/>
+        <attr name="scale_view_tag" format="integer"/>
+        <attr name="scale_view_height" format="dimension"/>
+        <attr name="scale_view_margin" format="dimension"/>
+    </declare-styleable>
+</resources>
